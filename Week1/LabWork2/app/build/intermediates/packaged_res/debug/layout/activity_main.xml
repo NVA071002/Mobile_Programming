@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/tv_student_name"
+        android:layout_width="397dp"
+        android:layout_height="43dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="17dp"
+        android:layout_marginTop="27dp"
+        android:layout_marginEnd="-3dp"
+        android:fontFamily="sans-serif"
+        android:gravity="left|center"
+        android:textStyle="bold"
+        android:maxWidth="100dp"
+        android:maxHeight="100dp"
+        android:minWidth="10dp"
+        android:minHeight="10dp"
+        android:text="@string/student_name"
+        android:textAllCaps="true"
+        android:textColor="@color/purple"
+        android:textColorHighlight="@color/black"
+        android:textIsSelectable="true"
+        android:textSize="25dp"
+        android:capitalize="characters"
+
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="39dp"
+
+        />
+
+    <TextView
+        android:id="@+id/password"
+        android:layout_width="181dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="77dp"
+        android:cursorVisible="true"
+        android:editable="true"
+        android:hint="PASSWORD"
+        android:inputType="text"
+        android:password="true"
+        android:text=""
+        android:textSize="25dp"
+        android:textIsSelectable="true"
+        android:textColorHint="@color/red"
+        />
+
+    <TextView
+        android:id="@+id/tv_student_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="231dp"
+        android:layout_marginTop="36dp"
+        android:cursorVisible="true"
+        android:phoneNumber="true"
+        android:text="@string/student_id"
+        android:textColor="@color/blue"
+        android:textSize="20dp"
+        android:typeface="sans"
+        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteY="142dp" />
+
+</RelativeLayout>

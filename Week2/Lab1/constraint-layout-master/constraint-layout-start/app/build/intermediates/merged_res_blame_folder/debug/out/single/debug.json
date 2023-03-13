@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main_barriers.xml.flat",
+        "source": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\layout\\activity_main_barriers.xml"
+    },
+    {
+        "merged": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main_autoconnect.xml.flat",
+        "source": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\layout\\activity_main_autoconnect.xml"
+    },
+    {
+        "merged": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_info.png.flat",
+        "source": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\drawable-xxhdpi\\ic_info.png"
+    },
+    {
+        "merged": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main_chains.xml.flat",
+        "source": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\layout\\activity_main_chains.xml"
+    },
+    {
+        "merged": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\merged_res\\debug\\drawable_info_background.xml.flat",
+        "source": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\drawable\\info_background.xml"
+    },
+    {
+        "merged": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_ab_drawer_mask.png.flat",
+        "source": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\drawable-xxhdpi\\ic_ab_drawer_mask.png"
+    },
+    {
+        "merged": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main_ratio.xml.flat",
+        "source": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\layout\\activity_main_ratio.xml"
+    },
+    {
+        "merged": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main_inference.xml.flat",
+        "source": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\layout\\activity_main_inference.xml"
+    },
+    {
+        "merged": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_ab_up_white.png.flat",
+        "source": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\drawable-xxhdpi\\ic_ab_up_white.png"
+    },
+    {
+        "merged": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\merged_res\\debug\\drawable-nodpi_singapore.jpg.flat",
+        "source": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\drawable-nodpi\\singapore.jpg"
+    },
+    {
+        "merged": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_star.png.flat",
+        "source": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\drawable-xxhdpi\\ic_star.png"
+    },
+    {
+        "merged": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main_done.xml.flat",
+        "source": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\layout\\activity_main_done.xml"
+    },
+    {
+        "merged": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main_start.xml.flat",
+        "source": "D:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week2\\Lab1\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\layout\\activity_main_start.xml"
+    }
+]

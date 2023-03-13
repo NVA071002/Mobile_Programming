@@ -1,0 +1,10 @@
+#Mon Feb 20 21:57:08 ICT 2023
+base.2=D\:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week3\\FragmentCommunication\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
+path.2=10/classes.dex
+base.1=D\:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week3\\FragmentCommunication\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+path.1=0/classes.dex
+base.0=D\:\\LEARNING\\NAM3_HKII\\MobileProgramming\\Week3\\FragmentCommunication\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

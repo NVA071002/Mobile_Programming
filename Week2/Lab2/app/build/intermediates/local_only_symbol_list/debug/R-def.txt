@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color blue
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_add
+id et_answer
+id et_inputA
+id et_inputB
+id linear_ans
+id linear_inputA
+id linear_inputB
+id tv_ans
+id tv_inputA
+id tv_inputB
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.SumOf2number
+xml backup_rules
+xml data_extraction_rules
