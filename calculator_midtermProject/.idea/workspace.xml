@@ -9,7 +9,53 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3088ab0-2eb3-4823-ab6c-97e8314aa702" name="Changes" comment="" />
+    <list default="true" id="d3088ab0-2eb3-4823-ab6c-97e8314aa702" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/java/com/example/project2_mediaplayer/Music.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/java/com/example/project2_mediaplayer/MusicAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/java/com/example/project2_mediaplayer/MyViewPagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/java/com/example/project2_mediaplayer/fragments/AuthorFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/java/com/example/project2_mediaplayer/fragments/ListmusicFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/java/com/example/project2_mediaplayer/fragments/SettingFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/java/com/example/project2_mediaplayer/transformer/ZoomOutPageTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/res/color/custom_color_bottom_nav.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/res/drawable/addplaylist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/res/drawable/author.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/res/drawable/count_round_drawable.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/res/drawable/ic_more_horiz_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/res/drawable/listmusic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/res/drawable/music1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/res/drawable/music_empty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/res/drawable/refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/res/drawable/ripple_effect.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/res/drawable/setting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/res/layout/fragment_author.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/res/layout/fragment_listmusic.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/res/layout/fragment_setting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/res/layout/item_feature_song.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROJECT2_MediaPlayer/app/src/main/res/menu/menu_bottom_navigation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week6/DynamicReceiver/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week6/DynamicReceiver/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week6/Practice4/Foregroundservicesample/app/src/main/java/com/example/foregroundservicesample/MyReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week6/Practice4/Foregroundservicesample/app/src/main/java/com/example/foregroundservicesample/MyReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week8/LessonsAudio_VideosinAndroid/AccessMp3file/app/src/main/java/com/example/accessmp3file/ReadMp3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week8/LessonsAudio_VideosinAndroid/AccessMp3file/app/src/main/java/com/example/accessmp3file/ReadMp3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week8/SQLlite/Practice1/app/src/main/java/com/example/practice1/DBHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week8/SQLlite/Practice1/app/src/main/java/com/example/practice1/DBHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week8/SQLlite/Readdata/app/src/main/java/com/example/readdata/CourseModal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week8/SQLlite/Readdata/app/src/main/java/com/example/readdata/CourseModal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week8/SQLlite/Readdata/app/src/main/java/com/example/readdata/CourseRVAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week8/SQLlite/Readdata/app/src/main/java/com/example/readdata/CourseRVAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week8/SQLlite/Readdata/app/src/main/java/com/example/readdata/DBHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week8/SQLlite/Readdata/app/src/main/java/com/example/readdata/DBHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week8/SQLlite/Readdata/app/src/main/java/com/example/readdata/ViewCourses.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week8/SQLlite/Readdata/app/src/main/java/com/example/readdata/ViewCourses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week8/SQLlite/Readdata/app/src/main/res/layout/course_rv_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week8/SQLlite/Readdata/app/src/main/res/layout/course_rv_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week8/SQLlite/Updatedata/app/src/main/java/com/example/updatedata/CourseModal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week8/SQLlite/Updatedata/app/src/main/java/com/example/updatedata/CourseModal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week8/SQLlite/Updatedata/app/src/main/java/com/example/updatedata/CourseRVAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week8/SQLlite/Updatedata/app/src/main/java/com/example/updatedata/CourseRVAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week8/SQLlite/Updatedata/app/src/main/java/com/example/updatedata/DBHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week8/SQLlite/Updatedata/app/src/main/java/com/example/updatedata/DBHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week8/SQLlite/Updatedata/app/src/main/java/com/example/updatedata/UpdateCourseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week8/SQLlite/Updatedata/app/src/main/java/com/example/updatedata/UpdateCourseActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week8/SQLlite/Updatedata/app/src/main/java/com/example/updatedata/ViewCourses.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week8/SQLlite/Updatedata/app/src/main/java/com/example/updatedata/ViewCourses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week8/SQLlite/Updatedata/app/src/main/res/layout/activity_update_course.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week8/SQLlite/Updatedata/app/src/main/res/layout/activity_update_course.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week9/Practice1/app/src/main/java/com/example/practice1/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week9/Practice1/app/src/main/java/com/example/practice1/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week9/Practice3/app/src/main/java/com/example/practice3/ImageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week9/Practice3/app/src/main/java/com/example/practice3/ImageAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week9/Practice3/app/src/main/java/com/example/practice3/ImagesActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week9/Practice3/app/src/main/java/com/example/practice3/ImagesActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week9/Practice3/app/src/main/java/com/example/practice3/Upload.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week9/Practice3/app/src/main/java/com/example/practice3/Upload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week9/Practice3/app/src/main/res/layout/activity_images.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week9/Practice3/app/src/main/res/layout/activity_images.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week9/Practice3/app/src/main/res/layout/image_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week9/Practice3/app/src/main/res/layout/image_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,23 +67,27 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MGVLnoBHewhm3uC2gxwQTkiiK2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "cidr.known.project.marker": "true",
-    "last_opened_file_path": "D:/LEARNING/NAM3_HKII/MobileProgramming/calculator_midtermProject"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/LEARNING/NAM3_HKII/MobileProgramming/calculator_midtermProject&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="calculator_midtermProject.app.main" />

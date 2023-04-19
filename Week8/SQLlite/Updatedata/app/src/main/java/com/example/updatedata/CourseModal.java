@@ -1,4 +1,4 @@
-package com.example.readdata;
+package com.example.updatedata;
 
 public class CourseModal {
 
